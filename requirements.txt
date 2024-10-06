@@ -17,7 +17,7 @@ pandas
 plotly
 requests
 rich
-sqlalchemy
+scikit-learn
 streamlit
 tornado
 urllib3
