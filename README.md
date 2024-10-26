@@ -47,14 +47,3 @@ The dataset used for breast cancer prognosis prediction contains several feature
 By leveraging historical patient data, this project aims to demonstrate the practical application of predictive analytics in healthcare. We hope to contribute to the early detection of high-risk patients and potentially assist in optimizing treatment strategies.
 
 ---
-
-## Getting Started
-
-### Prerequisites
-- Python 3.8 or higher
-- Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `plotly`
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/breast-cancer-prognosis.git
